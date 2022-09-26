@@ -12,7 +12,7 @@ const PostMyProfile = () => {
     const post = useSelector(select)
 
     const btnSetting = () => {
-        console.log("setting klic")
+        window.alert('settings')
       }
   
 
