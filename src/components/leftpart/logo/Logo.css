@@ -4,17 +4,15 @@
     width: 226px;
     height: 54px;
     opacity: 1;
-    left: 8px;
-    top: 0px;
+    left: 5px;
     background-color: #fff;
 }
 .txt {
     position: absolute;
     width: 155px;
-    height: 44px;
+    height: 29px;
     background-color: #fff;
-    left: 75px;
-    bottom: 10px;
+    left: 60px;
     text-align: right;   
 }
 
@@ -22,12 +20,13 @@
     position: absolute;
     color: #4b5155;
     right: 1px;
-    top: 16px;
+    top: 15px;
     height: 29px;
     width: 154px;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: 900;
     background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
 }
 .open {
     position: absolute;
@@ -39,9 +38,13 @@
     background-color: #fff;
     font-size: 13px;
 }
-img {
+.img {
     width: 57px;
     height: 54px;
     background-color: #fff;
     
+}
+.logoImg{
+    width: 57px;
+    height: 54px;
 }
