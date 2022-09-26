@@ -1,0 +1,47 @@
+.logo {
+    position: absolute;
+    display: flex; 
+    width: 226px;
+    height: 54px;
+    opacity: 1;
+    left: 8px;
+    top: 0px;
+    background-color: #fff;
+}
+.txt {
+    position: absolute;
+    width: 155px;
+    height: 44px;
+    background-color: #fff;
+    left: 75px;
+    bottom: 10px;
+    text-align: right;   
+}
+
+.logotxt {
+    position: absolute;
+    color: #4b5155;
+    right: 1px;
+    top: 16px;
+    height: 29px;
+    width: 154px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #fff;
+}
+.open {
+    position: absolute;
+    width: 35px;
+    height: 14px;
+    color: #7b8793;
+    right: 0px;
+    top: 0px;
+    background-color: #fff;
+    font-size: 13px;
+}
+img {
+    width: 57px;
+    height: 54px;
+    background-color: #fff;
+    
+}

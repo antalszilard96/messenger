@@ -1,0 +1,83 @@
+.mess{
+    position: relative;
+    width: 570px;
+    height: auto;
+    display: flex;
+    margin-top: 20px;
+    background-color: #f9fafc; 
+    padding: 10px;
+}
+.mymess{
+    position: relative;
+    width: 570px;
+    height: auto;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #f9fafc;
+    margin-left: 340px;
+    
+}
+.mymess .senderImg {
+    position: absolute;
+    height: 40px;
+    width: 40px;  
+    background-color: #f9fafc;
+    left: 530px;
+}
+.mymess .msgText{
+    position: absolute;
+    right: 80px;
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #afbbc6;
+    text-align: start;
+}
+.mymess .msg {
+    position: absolute;
+    width: 570px;
+    align-items: flex-end;
+}
+
+
+.msgText {
+    position: absolute;
+    left: 82px;
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+    font-size: 14px;
+    padding: 10px;
+    
+}
+
+.senderImg {
+    height: 40px;
+    width: 40px;  
+    background-color: #f9fafc;
+}
+.profileImg {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background-color: #f9fafc;
+    border-radius: 15px;
+    font-size: 14px;
+}
+
+.time-span {
+    border: solid 1px red;
+    background-color: #f9fafc;
+    width: 26px;
+    height: 10px;
+    
+}
+.time{
+    font-size: 10px;
+    color: #afbbc6;
+    background-color: #f9fafc;
+    width: 26px;
+    height: 10px;
+}

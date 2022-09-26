@@ -1,0 +1,61 @@
+.right {
+    position: absolute;
+    top: 35px;
+    left: 1374px;
+    width: 50px;
+    height: 250px;
+    background-color: #fff;
+    opacity: 1;
+    
+}
+.details {
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+}
+.chatimg {
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+}
+.chatName{
+    position: absolute;
+    color: #4b5155;
+    font-size: 14px;
+    width: 44px;
+    height: 15px;
+    top: 74px;
+    left:5px;
+    background-color: #fff;
+}
+.poplesPart{
+    position: absolute;
+    top: 106px;
+    left: 3px;
+    width: 44px;
+    height: auto;
+    background-color: #fff;
+}
+.memberImg{
+    width: 44px;
+    height: 44px;
+    margin-bottom: 6px;
+    background-color: #fff;
+    position: relative;
+}
+.memberImg img {
+    width: 44px;
+    height: 44px; 
+    background-color: #fff;
+   
+}
+.status-icon-members{
+    position: absolute;
+    left: 32px;
+    top: 32px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    padding: 2px 0 0 2px;
+    color: #76c00d;
+}

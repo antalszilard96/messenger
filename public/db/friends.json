@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Gyuri bacsi",
+        "lastmsg": "jo sok fat osszevagtunk",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 1 
+    },
+    {
+        "id": 2,
+        "name": "Feri",
+        "lastmsg": "ez nem az a feri",
+        "lasttime": "30.10.3",
+        "img": "imgs/img2.png",
+        "status": 1
+    },
+    {
+        "id": 3,
+        "name": "Dani",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img3.png",
+        "status": 2
+    },
+    {
+        "id": 4,
+        "name": "Peti",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img4.png",
+        "status": 2
+    },
+    {
+        "id": 5,
+        "name": "Gyuri",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img5.png",
+        "status": 0 
+    },
+    {
+        "id": 6,
+        "name": "Peti",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 0
+    },
+    {
+        "id": 7,
+        "name": "Peti",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 0
+    },
+    {
+        "id": 8,
+        "name": "Peti",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 0
+    },
+    {
+        "id": 9,
+        "name": "Peti",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 0
+    },
+    {
+        "id": 10,
+        "name": "Peti",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 0
+    }
+    
+]

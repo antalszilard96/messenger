@@ -1,0 +1,59 @@
+.reply .reply-form{
+    position: absolute;
+    bottom: 21px;
+    left: 20px;
+    height: 60px;
+    width: 910px;
+    background-color: #f9fafc;
+    
+}
+.reply-input {
+    height: 60px;
+    width: 910px;
+    border: solid 1px #dbe5ed;
+    border-radius: 25px;
+    background-color: #ffffff;
+}
+.reply-input::placeholder{
+    
+    padding-top: 24px;
+    color: #7b8793;
+}
+.reply-input[type="text"]{
+    color: #7b8793;
+    font-size: 14px;
+    padding: 20px;
+}
+
+.emo-button{
+    position: absolute;
+    height: 22px;
+    width: 22px;
+    top: 20px;
+    right: 68px;
+}
+.smile-icon{
+    height: 22px;
+    width: 22px;
+    color: #afbbc6;
+    background-color: #fff;
+}
+.reply-button{
+    position: absolute;
+    height: 46px;
+    width: 46px;
+    right: 7px;
+    top: 7px;
+    background-color: #76c00d;
+    border-radius: 50%;
+}
+.send-icon{
+    position: absolute;
+    background-color: #76c00d;
+    height: 28px;
+    width: 28px;
+    top: 10px;
+    left: 6px;
+    color: #fff;
+    rotate: 45deg ;
+}

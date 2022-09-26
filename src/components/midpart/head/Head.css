@@ -1,0 +1,18 @@
+.head {
+    width: 947px;
+    height: 82px;
+    background-color: #f4f5f8;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom: solid 1px #dbe5ed;
+}
+.chat-name {
+    position: absolute;
+    background-color: #f4f5f8;
+    height: 19px;
+    width: 100px;
+    font-size: 18px;
+    color: #4b5155;
+    top: 33px;
+    left: 27px;
+}

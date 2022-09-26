@@ -1,0 +1,30 @@
+.active-chat{
+    position: absolute;
+    top: 234px;
+    left: 5px;
+    width: 331px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    
+}
+p{
+    font-size: 16px;
+    width: 91px;
+    height: 24px;
+    background-color: #fff;
+    color: #4b5155;
+}
+.btnadd {
+    height: 24px;
+    width: 24px;
+    color: #dbe5ed;
+    background-color: #fff;
+}
+.addicon {
+    color: #7b8793;
+    background-color: #fff;
+    height: 24px;
+    width: 24px;
+}

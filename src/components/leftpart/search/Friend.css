@@ -1,0 +1,61 @@
+.friend-card {
+    position: relative;
+    width: 306px;
+    height: 50px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+
+}
+.friend-img {
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+}
+.profile-img{
+    height: 50px;
+    width: 50px;
+}
+.status-icon{
+    position: absolute;
+    left: 34px;
+    top: 34px;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    padding: 2px 0 0 2px;
+}
+.friend-data {
+    height: 50px;
+    width: 170px;
+    background-color: #fff;
+}
+.time {
+    position: relative;
+    top: 12px;
+    width: 48px;
+    height: 10px;
+    background-color: #fff;
+    
+}
+.name{
+    font-size: 16px;
+    color: #4b5155;
+}
+.lasttime {
+    position: absolute;
+    font-size: 12px;
+    width: 48px;
+    color: #7b8793;
+}
+.msgg{
+    position: relative;
+    top: 31px;
+    overflow: hidden;
+    font-size: 12px;
+    height: 13px;
+    max-width: 154px;
+    color: #7b8793;
+}

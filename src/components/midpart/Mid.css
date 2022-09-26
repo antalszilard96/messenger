@@ -1,0 +1,12 @@
+.mid {
+    position: absolute;
+    top: 20px;
+    left: 410px;
+    border: solid 1px #dbe5ed;
+    border-radius: 2%;
+    width: 950px;
+    height: 910px;
+    background-color: #f9fafc;
+    opacity: 1;
+    
+}

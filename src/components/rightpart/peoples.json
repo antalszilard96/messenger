@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Gyuri bacsi",
+        "lastmsg": "jo sok fat osszevagtunk",
+        "lasttime": "30.10.3",
+        "img": "imgs/img1.png",
+        "status": 1 
+    },
+    {
+        "id": 2,
+        "name": "Feri",
+        "lastmsg": "ez nem az a feri",
+        "lasttime": "30.10.3",
+        "img": "imgs/img2.png",
+        "status": 1
+    },
+    {
+        "id": 3,
+        "name": "Dani",
+        "lastmsg": "jo volt",
+        "lasttime": "30.10.3",
+        "img": "imgs/img3.png",
+        "status": 2
+    }
+]
